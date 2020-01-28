@@ -6,7 +6,7 @@ var createError = require('http-errors');
 const config = {
   user: 'grossi.marco',  //Vostro user name
   password: 'xxx123#', //Vostra password
-  server: "213.140.22.23\\sqlexpress",  //Stringa di connessione
+  server: "213.140.22.237",  //Stringa di connessione
   database: 'grossi.marco', //(Nome del DB)
 }
 
